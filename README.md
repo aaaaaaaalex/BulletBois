@@ -33,7 +33,6 @@ The `master` branch will contain the latest version of our project - every merge
 
 The `develop` branch is the branch that you should merge your new features into once we've all reviewed them as Pull Requests - this way, we can use `develop` to integration-test new features, and when `develop` is stable, we can 'release' it by merging into `master`. 
 
-**NEVER MERGE MASTER INTO DEVELOP, ONLY DEVELOP INTO MASTER, THIS WILL KEEP OUR GIT HISTORY CLEAN AND MANAGEABLE**
 
 **Make sure to clean intermediate files and built files before committing code, a bloated repo will take *literally* hours to clone**.
 
