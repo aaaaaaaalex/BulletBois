@@ -6,7 +6,7 @@
 
 To contribute to this repo, first clone it locally...
 ```
-git clone https://github.com/aaaaaaaalex/gamedev_group_project.git
+git clone https://github.com/aaaaaaaalex/bulletbois.git
 ```
 
 Then make a branch off develop for whatever feature/work you're contributing to:
